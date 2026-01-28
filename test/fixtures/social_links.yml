@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  url: MyString
+  name: instagram
+  url: https://www.instagram.com/
   position: 1
 
 two:
-  name: MyString
-  url: MyString
-  position: 1
+  name: facebook
+  url: https://www.facebook.com/
+  position: 2

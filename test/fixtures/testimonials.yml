@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  quote: MyText
-  locale: MyString
+  name: John Doe
+  quote: Great service! Highly recommend.
+  locale: en
 
 two:
-  name: MyString
-  quote: MyText
-  locale: MyString
+  name: Jane Smith
+  quote: Excellent experience, will come back again.
+  locale: en
